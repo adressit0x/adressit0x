@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/jGqL1wb.png" width="300" alt="Fatality.gg Logo"/>
-</p>
-
 <h1 align="center">Hello world i'm <span style="color:#ff0059;">adressito</span> 👋</h1>
 <p align="center"><b>Currently working at <a href="https://fatality.gg" target="_blank">Fatality.gg</a> 💻</b></p>
 
